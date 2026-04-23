@@ -21,7 +21,7 @@ This project allows users to view movies, select show times and seats, and book 
 ## 🎬 Project Demo Video
 
 Watch here:
-(https://drive.google.com/file/d/10k2qo_8kC_of7GsbjZyAWKOQiuKhc2WB/view?usp=drive_link)
+https://drive.google.com/file/d/1I2VQx029TmX1-YuAEjbfbuvD19XHH942/view?usp=drive_link
 
 ## Technologies Used
 
