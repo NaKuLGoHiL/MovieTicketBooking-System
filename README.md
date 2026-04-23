@@ -18,6 +18,11 @@ This project allows users to view movies, select show times and seats, and book 
 
 ---
 
+## 🎬 Project Demo Video
+
+Watch here:
+(https://drive.google.com/file/d/10k2qo_8kC_of7GsbjZyAWKOQiuKhc2WB/view?usp=drive_link)
+
 ## Technologies Used
 
 - **Python** – Backend logic  
